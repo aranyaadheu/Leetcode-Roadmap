@@ -1,5 +1,8 @@
 # Leetcode Roadmap
 
+## About
+This roadmap is designed to provide a structured approach to mastering problem-solving on Leetcode. It breaks down essential topics, categorizing problems into different levels of difficulty (Easy, Medium, Hard). Covering fundamental data structures, algorithms, and advanced techniques, this guide is perfect for beginners and experienced programmers preparing for technical interviews and coding competitions.
+
 ## Total Breakdown
 - **Easy**: ~5 Problems (For each topic)
 - **Medium**: ~10 Problems
